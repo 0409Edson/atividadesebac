@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(0, 255, 136);
+}
+
+a[href="#sports"] {
+    color: red; /* Troque 'red' pela cor que você quiser */
+}
+
+a[href="#economy"] {
+    color: rgb(246, 255, 0);
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+h3{
+    display: flex;
+    font-size: 40px;
+}
